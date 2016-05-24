@@ -1,0 +1,22 @@
+div {
+  background: pink;
+}
+#board {
+  width: 320px;
+  height: 320px;
+/*   background: skyblue; */
+}
+.square {
+  float: left;
+  width: 100px;
+  height: 100px;
+}
+.hide {
+  display: none;
+}
+.right {
+  border-right: solid 1px black;
+}
+.bottom {
+  border-bottom: 1px solid black;
+}

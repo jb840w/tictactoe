@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jb840w/tictactoe#readme",
   "dependencies": {
+    "bootstrap": "^3.3.6",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
